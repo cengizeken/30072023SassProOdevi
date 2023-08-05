@@ -2,7 +2,7 @@
 @import 'normalize';
 @import 'variables';
 @import 'header';
-@import 'content'
+@import 'content';
 
 .icon {
     display: inline-block;
@@ -12,3 +12,7 @@
     stroke: currentColor;
     fill: currentColor;
   }
+
+  a, p{
+    font-size: $my-font;
+}
