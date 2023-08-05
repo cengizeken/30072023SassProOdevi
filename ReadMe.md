@@ -6,3 +6,5 @@ The <defs> element is used to store graphical objects that will be used at a lat
 
 Graphical objects can be referenced from anywhere, however, defining these objects inside of a <defs> element promotes understandability of the SVG content and is beneficial to the overall accessibility of the document.
 Adem İlter FlexBox, https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+![Alt text](image.png)
